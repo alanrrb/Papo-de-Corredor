@@ -1,0 +1,41 @@
+{"nome": "Alan Rafael Rodrigo Batista",
+"e-mail": "alanrrb@gmail.com",
+"telefone": "9999-9999",
+"pedidos": [
+{"codigo":1, "data":"2010/01/27 16:56:52 +0000", "valor":2000},
+{"codigo":1, "data":"2010/01/27 16:56:52 +0000", "valor":2000},
+{"codigo":1, "data":"2010/01/27 16:56:52 +0000", "valor":2000}
+]
+}
+
+{
+"cliente_id": 1
+"nome": "Alan Rafael Rodrigo Batista",
+"e-mail": "alanrrb@gmail.com",
+"telefone": "9999-9999"
+"tipo": "Cliente"
+}
+
+{
+"codigo":1, 
+"data":"2010/01/27 16:56:52 +0000", 
+"valor":2000, 
+"tipo" : "Pedido"
+"cliente_id": 1
+}
+
+{
+"codigo":2, 
+"data":"2010/01/27 16:56:52 +0000", 
+"valor":6300, 
+"tipo" : "Pedido"
+"cliente_id": 1
+}
+
+{
+"codigo":3, 
+"data":"2010/01/27 16:56:52 +0000", 
+"valor":200, 
+"tipo" : "Pedido"
+
+}
